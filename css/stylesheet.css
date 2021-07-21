@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    background:linear-gradient(to right, #00AAFF, rgba(4, 4, 247, 0.667))
+}
+
+.head{
+    background-color: rgb(244, 244, 245,.7);
+    text-align: center;
+    font-family: 'Noto Serif', serif;
+}
+
+.notes{
+
+    
+    width: auto;
+    height: auto;
+    
+}
+
+
+
+.xButton {
+    float: right;
+    clear: right;
+}
+
+
+.nota{
+    margin-bottom: 10px;
+    width: auto;
+    height: auto;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Fuggles', cursive;
+
+}
